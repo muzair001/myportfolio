@@ -26,7 +26,7 @@ function Footer() {
           </div>
 
           {/* Social Media Section */}
-          <div className="col-12 col-lg-4 col-sm-6 mt-3 col-sm-12 col-xs-12 mb-lg-0 ">
+          <div className="col-12 col-lg-4 col-sm-6 mt-4 col-sm-12 col-xs-12 align-item-center mb-lg-0 ">
             <h4><b>Social Media Connections</b></h4>
             <nav className="d-flex flex-column align-items-start">
               <a
@@ -60,7 +60,7 @@ function Footer() {
           </div>
 
           {/* Contact Section */}
-          <div className="col-12 col-lg-4 col-xs-12 mt-3 text-center text-md-start text-lg-start">
+          <div className="col-12 col-lg-4 col-xs-12 mt-4 text-center text-md-start text-lg-start">
             <h4>Contact us!</h4>
             <p className="align-items-start">
               <i className="bi bi-envelope"></i> uzairiftikhar24636@gmail.com
