@@ -23,7 +23,7 @@ function Navbar() {
     <div className="container-fluid">
       <nav className="nav-wrapper">
         <div className="nav-content">
-          <h3 className="logo mb-0">UZAIR</h3>
+          <h3 className="logo mb-0">UZAIR♡</h3>
 
           <button className="menu-btn" onClick={toggleMenu}>
             <i className={`bi ${menuActive ? "bi-x" : "bi-list"}`}></i>
